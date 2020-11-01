@@ -1,1 +1,5 @@
-.kra~
+*.kra?
+*.png?
+
+tiles/chaos_zone_shared/cyberwehr.kra~
+

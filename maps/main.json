@@ -97,7 +97,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/jotilux-testing\/ebk_e1.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/jotilux-testing\/ebk_e0.json"
                 }],
          "type":"tilelayer",
          "visible":true,

@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/dezentrale\/maps\/dezentrale.json"
+                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/chaosz0ne\/shared\/dezentrale\/maps\/dezentrale_e0.json"
                 }],
          "type":"tilelayer",
          "visible":true,

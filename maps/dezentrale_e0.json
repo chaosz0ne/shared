@@ -145,7 +145,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/hardwareforfuture.de\/"
+                 "value":"https:\/\/vebit.xyz"
                 }],
          "type":"tilelayer",
          "visible":true,

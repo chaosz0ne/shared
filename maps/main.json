@@ -262,6 +262,27 @@
          "spacing":0,
          "tilecount":2048,
          "tileheight":32,
+         "tiles":[
+                {
+                 "animation":[
+                        {
+                         "duration":200,
+                         "tileid":582
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":583
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":584
+                        }, 
+                        {
+                         "duration":200,
+                         "tileid":585
+                        }],
+                 "id":581
+                }],
          "tilewidth":32
         }],
  "tilewidth":32,

@@ -1,0 +1,4 @@
+[submodule "rc3-tiles"]
+	path = rc3-tiles
+	url = https://github.com/cbluoss/rc3_tiles.git
+	branch = master

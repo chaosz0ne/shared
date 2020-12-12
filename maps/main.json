@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/master\/kreuzung\/main.json"
+                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/master\/kreuzung\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -133,7 +133,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/jotilux-testing\/ebk_e0.json"
+                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/maps\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -151,7 +151,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/zw-map\/maps\/outside.json"
+                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/zw-map\/maps\/outside.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -348,7 +348,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.1",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

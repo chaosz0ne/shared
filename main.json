@@ -523,7 +523,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/maps\/main.json"
+                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

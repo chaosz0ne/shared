@@ -1701,6 +1701,30 @@
                 {
                  "animation":[
                         {
+                         "duration":220,
+                         "tileid":233
+                        }, 
+                        {
+                         "duration":220,
+                         "tileid":264
+                        }],
+                 "id":233
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":220,
+                         "tileid":236
+                        }, 
+                        {
+                         "duration":220,
+                         "tileid":237
+                        }],
+                 "id":236
+                }, 
+                {
+                 "animation":[
+                        {
                          "duration":1000,
                          "tileid":260
                         }, 
@@ -1721,6 +1745,18 @@
                          "tileid":261
                         }],
                  "id":260
+                }, 
+                {
+                 "animation":[
+                        {
+                         "duration":220,
+                         "tileid":268
+                        }, 
+                        {
+                         "duration":220,
+                         "tileid":269
+                        }],
+                 "id":268
                 }, 
                 {
                  "id":275,

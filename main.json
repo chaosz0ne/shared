@@ -547,7 +547,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/p1ng0utNet\/rc3-krautspace\/master\/main.json"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/HackspaceJena\/krautspace-rc3-map\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -954,7 +954,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.3",
  "tileheight":32,
  "tilesets":[
         {

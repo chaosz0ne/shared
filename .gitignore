@@ -1,4 +1,5 @@
 *.kra?
 *.png?
 *autosave*
-
+./tilesets/*autosave.kra
+*~

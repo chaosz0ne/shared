@@ -525,6 +525,12 @@
          "id":31,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"{<lobby>\/erfas-spaces-north.json#start_chaoszone}"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

@@ -853,7 +853,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/TRABANT6018211TRAMPenginerunning.mp3"
+                 "value":".\/sounds\/TRABANT6018211TRAMPenginerunning.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

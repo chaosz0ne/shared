@@ -655,7 +655,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Dezentrale-eV\/rc3\/main\/maps\/dezentrale_e0.json"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Dezentrale-eV\/rc3\/main\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

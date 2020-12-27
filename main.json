@@ -589,7 +589,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Chaostreff-Potsdam\/machbar_map\/gh-pages\/main.json"
+                 "value":"{<cccp>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -607,7 +607,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Bytespeicher\/Bytespeicher_WorkAdventure_RC3\/main\/main.json"
+                 "value":"{<bytespeicher>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -625,7 +625,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/HackspaceJena\/krautspace-rc3-map\/main\/main.json"
+                 "value":"{<krautspacejena>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -643,7 +643,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/z-Marcel\/z-Labor-workadventure-map\/main\/main.json"
+                 "value":"{<z-labor>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -661,7 +661,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/ChaosChemnitz\/workadventure-map\/master\/main.json"
+                 "value":"{<chaoschemnitz>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -679,7 +679,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Eigenbaukombinat\/workadventuretest\/master\/main.json"
+                 "value":"{<eigenbaukombinat>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -697,7 +697,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/hateotu\/wa-space\/main\/main.json"
+                 "value":"{<hateotu>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -715,7 +715,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/c3d2.github.io\/ds2020workadventuretest\/main.json"
+                 "value":"{<c3d2>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -733,7 +733,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Dezentrale-eV\/rc3\/main\/main.json"
+                 "value":"{<dezentrale>\/main.json}"
                 }],
          "type":"tilelayer",
          "visible":true,

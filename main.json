@@ -661,7 +661,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<chaoschemnitz>\/main.json}"
+                 "value":"{<lobby>\/maps\/erfas-spaces-north.json#start_chaoschemnitz}"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1068,7 +1068,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.2",
+ "tiledversion":"1.4.1",
  "tileheight":32,
  "tilesets":[
         {

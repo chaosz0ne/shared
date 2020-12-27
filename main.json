@@ -603,6 +603,12 @@
          "id":104,
          "name":"portal_erfurt",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/Bytespeicher\/Bytespeicher_WorkAdventure_RC3\/main\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

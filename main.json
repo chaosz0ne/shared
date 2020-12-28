@@ -813,6 +813,12 @@
          "id":106,
          "name":"website_stage",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/streaming.media.ccc.de\/rc3\/chaoszone"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

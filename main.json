@@ -283,7 +283,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/maps\/iglu.json"
+                 "value":".\/maps\/iglu.json#start_hoehle"
                 }],
          "type":"tilelayer",
          "visible":true,

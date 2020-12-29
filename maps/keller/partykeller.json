@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/wbs70#entry_underground"
+                 "value":"..\/wbs70.json#entry_underground"
                 }],
          "type":"tilelayer",
          "visible":true,

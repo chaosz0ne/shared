@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/maps\/wbs70"
+                 "value":".\/maps\/wbs70.json"
                 }],
          "type":"tilelayer",
          "visible":true,

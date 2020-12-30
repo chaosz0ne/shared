@@ -1382,6 +1382,12 @@
          "id":95,
          "name":"Winterwonderland_overlay",
          "opacity":0.8,
+         "properties":[
+                {
+                 "name":"getBadge",
+                 "type":"string",
+                 "value":"nTh6ulI5QLSSFFfsk5tmCMRXxLKGbZHVsgu1T19Z4z8grgP72o"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -1392,7 +1398,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {

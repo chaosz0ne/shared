@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"stream:rc3lounge"
+                 "value":"http:\/\/team-tfm.com:8000\/zonenradio"
                 }],
          "type":"tilelayer",
          "visible":true,

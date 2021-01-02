@@ -931,7 +931,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"{<c3d2>\/main.json}"
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/c3d2\/ds2020workadventuretest\/master\/main.json"
                 }],
          "type":"tilelayer",
          "visible":true,

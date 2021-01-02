@@ -891,6 +891,12 @@
          "id":33,
          "name":"portal_ebk",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":"https:\/\/test.visit.at.wa-test.rc3.cccv.de\/_\/global\/raw.githubusercontent.com\/\/Eigenbaukombinat\/workadventuretest\/master\/main.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,

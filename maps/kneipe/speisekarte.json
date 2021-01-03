@@ -82,6 +82,30 @@
          "y":0
         }, 
         {
+         "data":[1770, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":3,
+         "id":8,
+         "name":"objekte-1",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0],
+         "height":3,
+         "id":9,
+         "name":"objekte-2",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
+         "x":0,
+         "y":0
+        }, 
+        {
          "draworder":"topdown",
          "id":4,
          "name":"floorLayer",
@@ -104,7 +128,7 @@
          "x":0,
          "y":0
         }],
- "nextlayerid":8,
+ "nextlayerid":10,
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",

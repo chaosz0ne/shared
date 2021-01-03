@@ -257,9 +257,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"http:\/\/team-tfm.com:8000\/zonenradio"
+                 "value":".\/sounds\/club.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,

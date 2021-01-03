@@ -22,7 +22,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1321, 1321, 0, 0],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1193, 1193, 0, 0],
          "height":3,
          "id":5,
          "name":"start",
@@ -40,7 +40,7 @@
          "y":0
         }, 
         {
-         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1321, 0, 0, 0, 1321],
+         "data":[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1193, 0, 0, 0, 1193],
          "height":3,
          "id":6,
          "name":"exit_kneipe",
@@ -70,7 +70,7 @@
          "y":0
         }, 
         {
-         "data":[451, 451, 451, 3241, 451, 828, 828, 828, 828, 829, 451, 451, 451, 451, 451],
+         "data":[323, 323, 323, 3113, 323, 700, 700, 700, 700, 701, 323, 323, 323, 323, 323],
          "height":3,
          "id":1,
          "name":"tresen",
@@ -93,7 +93,7 @@
          "y":0
         }, 
         {
-         "data":[0, 3, 4, 0, 0, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0],
+         "data":[0, 3116, 3117, 0, 0, 0, 3124, 3125, 0, 0, 0, 0, 0, 0, 0],
          "height":3,
          "id":2,
          "name":"speisekarte",
@@ -114,20 +114,6 @@
         {
          "columns":8,
          "firstgid":1,
-         "image":"..\/..\/tiles\/kneipe\/kneipe.png",
-         "imageheight":512,
-         "imagewidth":256,
-         "margin":0,
-         "name":"kneipe",
-         "spacing":0,
-         "tilecount":128,
-         "tileheight":32,
-         "tilewidth":32,
-         "transparentcolor":"#003039"
-        }, 
-        {
-         "columns":8,
-         "firstgid":129,
          "image":"..\/..\/tiles\/fantasy.png",
          "imageheight":4256,
          "imagewidth":256,
@@ -241,7 +227,7 @@
         }, 
         {
          "columns":32,
-         "firstgid":1193,
+         "firstgid":1065,
          "image":"..\/..\/tiles\/chaos_zone_shared.png",
          "imageheight":2048,
          "imagewidth":1024,
@@ -265,7 +251,7 @@
         }, 
         {
          "columns":1,
-         "firstgid":3241,
+         "firstgid":3113,
          "image":"..\/..\/tiles\/kneipe\/Kneipier-small.png",
          "imageheight":32,
          "imagewidth":32,
@@ -273,6 +259,20 @@
          "name":"Kneipier-small",
          "spacing":0,
          "tilecount":1,
+         "tileheight":32,
+         "tilewidth":32,
+         "transparentcolor":"#003039"
+        }, 
+        {
+         "columns":8,
+         "firstgid":3114,
+         "image":"..\/..\/tiles\/kneipe\/kneipe.png",
+         "imageheight":512,
+         "imagewidth":256,
+         "margin":0,
+         "name":"kneipe",
+         "spacing":0,
+         "tilecount":128,
          "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"

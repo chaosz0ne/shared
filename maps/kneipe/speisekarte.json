@@ -70,22 +70,10 @@
          "y":0
         }, 
         {
-         "data":[451, 451, 451, 451, 451, 828, 828, 828, 807, 829, 451, 451, 451, 451, 451],
+         "data":[451, 451, 451, 3241, 451, 828, 828, 828, 828, 829, 451, 451, 451, 451, 451],
          "height":3,
          "id":1,
          "name":"tresen",
-         "opacity":1,
-         "type":"tilelayer",
-         "visible":true,
-         "width":5,
-         "x":0,
-         "y":0
-        }, 
-        {
-         "data":[0, 3, 4, 0, 0, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0],
-         "height":3,
-         "id":2,
-         "name":"speisekarte",
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -101,6 +89,18 @@
          "opacity":1,
          "type":"objectgroup",
          "visible":true,
+         "x":0,
+         "y":0
+        }, 
+        {
+         "data":[0, 3, 4, 0, 0, 0, 11, 12, 0, 0, 0, 0, 0, 0, 0],
+         "height":3,
+         "id":2,
+         "name":"speisekarte",
+         "opacity":1,
+         "type":"tilelayer",
+         "visible":true,
+         "width":5,
          "x":0,
          "y":0
         }],
@@ -260,6 +260,20 @@
                          "value":true
                         }]
                 }],
+         "tilewidth":32,
+         "transparentcolor":"#003039"
+        }, 
+        {
+         "columns":1,
+         "firstgid":3241,
+         "image":"..\/..\/tiles\/kneipe\/Kneipier-small.png",
+         "imageheight":32,
+         "imagewidth":32,
+         "margin":0,
+         "name":"Kneipier-small",
+         "spacing":0,
+         "tilecount":1,
+         "tileheight":32,
          "tilewidth":32,
          "transparentcolor":"#003039"
         }],

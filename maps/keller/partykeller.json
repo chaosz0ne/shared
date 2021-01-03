@@ -19,7 +19,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"..\/..\/sounds\/club.mp3"
+                 "value":"..\/..\/sounds\/club_inside.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,

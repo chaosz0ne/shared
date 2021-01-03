@@ -37,7 +37,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"stream:rc3lounge"
+                 "value":".\/sounds\/club_haus.mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -222,7 +222,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {

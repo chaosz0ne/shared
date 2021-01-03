@@ -103,7 +103,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/outside.json"
+                 "value":"..\/..\/main.json#entry_kneipe"
                 }],
          "type":"tilelayer",
          "visible":true,

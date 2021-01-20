@@ -53,7 +53,7 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudio",
+                 "name":"playAudioLoop",
                  "type":"string",
                  "value":"..\/..\/sounds\/club_inside.mp3"
                 }],

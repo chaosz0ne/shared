@@ -53,9 +53,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"playAudioLoop",
+                 "name":"playAudio",
                  "type":"string",
-                 "value":"..\/..\/sounds\/club_inside.mp3"
+                 "value":"http:\/\/team-tfm.com:8000\/zonenradio.mp3"
                 }],
          "type":"tilelayer",
          "visible":false,
@@ -372,7 +372,7 @@
  "nextobjectid":1,
  "orientation":"orthogonal",
  "renderorder":"right-down",
- "tiledversion":"1.4.3",
+ "tiledversion":"1.4.2",
  "tileheight":32,
  "tilesets":[
         {

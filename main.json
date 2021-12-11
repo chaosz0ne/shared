@@ -196,6 +196,12 @@
          "imagewidth":4096,
          "margin":0,
          "name":"cave",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"cave by nek0"
+                }],
          "spacing":0,
          "tilecount":16384,
          "tileheight":32,
@@ -209,6 +215,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"\u00a9 2021 WorkAdventure <https:\/\/workadventu.re\/> \nLicense: WORKADVENTURE SPECIFIC RESOURCES LICENSE https:\/\/github.com\/thecodingmachine\/workadventure-map-starter-kit"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -232,6 +244,12 @@
          "imagewidth":448,
          "margin":0,
          "name":"honky_objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"honky_objects by honky"
+                }],
          "spacing":0,
          "tilecount":182,
          "tileheight":32,
@@ -245,6 +263,12 @@
          "imagewidth":704,
          "margin":0,
          "name":"ddr_buildings",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"ddr_buildings by honky"
+                }],
          "spacing":0,
          "tilecount":352,
          "tileheight":32,
@@ -258,6 +282,12 @@
          "imagewidth":896,
          "margin":0,
          "name":"owlishmedia",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Just some 32x32 tiles by OwlishMedia CC0 https:\/\/opengameart.org\/content\/just-some-32x32-tiles"
+                }],
          "spacing":0,
          "tilecount":784,
          "tileheight":32,
@@ -412,8 +442,33 @@
          "imagewidth":256,
          "margin":0,
          "name":"fantasy",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"FREE RPG Tileset 32x32 by pipoya https:\/\/pipoya.itch.io\/pipoya-rpg-tileset-32x32"
+                }],
          "spacing":0,
          "tilecount":1064,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":18776,
+         "image":"tiles\/IceTileset.png",
+         "imageheight":288,
+         "imagewidth":640,
+         "margin":0,
+         "name":"IceTileset",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"RPG Nature Tileset - Seasons by Stealthx (cc0) https:\/\/stealthix.itch.io\/rpg-nature-tileset"
+                }],
+         "spacing":0,
+         "tilecount":180,
          "tileheight":32,
          "tilewidth":32
         }],

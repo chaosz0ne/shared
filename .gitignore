@@ -1,6 +1,8 @@
+node_modules
 *.kra?
 *.png?
 *autosave*
 ./tilesets/*autosave.kra
 *~
 ./tiles/keller/Urban\ Jungle/
+

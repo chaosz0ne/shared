@@ -15,3 +15,11 @@ Work in progress.
 ## Mentions
 
 Some leaves of the trees (not the trunks!) are inspired by [Mack and BenBen, and XP](https://grandmadebslittlebits.wordpress.com/2015/09/04/benbens-trees-with-complete-credits-for-rpg-maker-mv-or-rpg-maker-vxace/)
+
+
+## workadventure xce
+
+this repo uses workadventure-xce-map-starter-kit for local testing
+
+https://github.com/workadventure-xce/workadventure-xce-map-starter-kit
+

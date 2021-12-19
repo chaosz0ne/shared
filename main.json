@@ -552,6 +552,12 @@
          "imagewidth":320,
          "margin":0,
          "name":"chaoszonemix",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"?"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
@@ -628,6 +634,12 @@
          "imagewidth":160,
          "margin":0,
          "name":"tree",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"tree by nek0"
+                }],
          "spacing":0,
          "tilecount":25,
          "tileheight":32,

@@ -644,6 +644,54 @@
          "tilecount":25,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":9,
+         "firstgid":19245,
+         "image":"assets\/tilesets_active\/sloppymessAndSnowSpikeBySpring.png",
+         "imageheight":256,
+         "imagewidth":288,
+         "margin":0,
+         "name":"sloppymessAndSnowSpikeBySpring",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"Sloppymess and Spike by Spring Spring (cc0) https:\/\/opengameart.org\/content\/very-basic-32x32-topdown-snow-tileset"
+                }],
+         "spacing":0,
+         "tilecount":72,
+         "tileheight":32,
+         "tiles":[
+                {
+                 "id":0,
+                 "properties":[
+                        {
+                         "name":"tilesetCopyright",
+                         "type":"string",
+                         "value":"Sloppymess and Spike by Spring Spring (cc0) https:\/\/opengameart.org\/content\/very-basic-32x32-topdown-snow-tileset"
+                        }]
+                }],
+         "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":19317,
+         "image":"assets\/tilesets_active\/RTSpack_tilesheet_2.png",
+         "imageheight":512,
+         "imagewidth":640,
+         "margin":0,
+         "name":"RTSpack_tilesheet_2",
+         "properties":[
+                {
+                 "name":"tilessetCopyright",
+                 "type":"string",
+                 "value":"From \"Holiday Pack 2016\" by Kenney https:\/\/opengameart.org\/content\/holiday-pack-2016"
+                }],
+         "spacing":0,
+         "tilecount":320,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

@@ -673,6 +673,25 @@
                         }]
                 }],
          "tilewidth":32
+        }, 
+        {
+         "columns":20,
+         "firstgid":19317,
+         "image":"assets\/tilesets_active\/RTSpack_tilesheet_2.png",
+         "imageheight":512,
+         "imagewidth":640,
+         "margin":0,
+         "name":"RTSpack_tilesheet_2",
+         "properties":[
+                {
+                 "name":"tilessetCopyright",
+                 "type":"string",
+                 "value":"From \"Holiday Pack 2016\" by Kenney https:\/\/opengameart.org\/content\/holiday-pack-2016"
+                }],
+         "spacing":0,
+         "tilecount":320,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",

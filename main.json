@@ -366,7 +366,7 @@
          "height":75,
          "id":34,
          "name":"silent",
-         "opacity":1,
+         "opacity":0,
          "properties":[
                 {
                  "name":"silent",

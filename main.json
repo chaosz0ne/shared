@@ -1382,7 +1382,7 @@
          "height":75,
          "id":9,
          "name":"collision",
-         "opacity":0.48,
+         "opacity":0,
          "type":"tilelayer",
          "visible":true,
          "width":75,
@@ -1404,6 +1404,12 @@
  "nextlayerid":81,
  "nextobjectid":1,
  "orientation":"orthogonal",
+ "properties":[
+        {
+         "name":"mapCopyright",
+         "type":"string",
+         "value":"http:\/\/dig.ccmixter.org\/files\/airtone\/63974\nbirdsongs by airtone \u00a9 copyright 2021 Licensed under a Creative Commons Attribution Noncommercial Share-Alike (3.0) license. http:\/\/dig.ccmixter.org\/files\/airtone\/63974\n\nhttp:\/\/dig.ccmixter.org\/files\/JeffSpeed68\/62721\nDreams by Stefan Kartenberg \u00a9 copyright 2020 Licensed under a Creative Commons Attribution Noncommercial (3.0) license. http:\/\/dig.ccmixter.org\/files\/JeffSpeed68\/62721 Ft: MalreDeszik, Mr Yesterday\n\nhttp:\/\/dig.ccmixter.org\/files\/rewob\/62213\nFirefly Memories by Rewob \u00a9 copyright 2020 Licensed under a Creative Commons Noncommercial Sampling Plus license. http:\/\/dig.ccmixter.org\/files\/rewob\/62213\n\nhttp:\/\/dig.ccmixter.org\/files\/snowflake\/63883\nOn the Bridge by Snowflake \u00a9 copyright 2021 Licensed under a Creative Commons Attribution Noncommercial (3.0) license. http:\/\/dig.ccmixter.org\/files\/snowflake\/63883 Ft: Stefan Kartenberg\n\n## Mentions\n\nSome leaves of the trees (not the trunks!) are inspired by [Mack and BenBen, and XP](https:\/\/grandmadebslittlebits.wordpress.com\/2015\/09\/04\/benbens-trees-with-complete-credits-for-rpg-maker-mv-or-rpg-maker-vxace\/)\n\n\n## Tileset WinterCollection\nRPG Nature Tileset - Seasons by Stealthx (cc0) https:\/\/stealthix.itch.io\/rpg-nature-tileset\nCable Car by Spring (cc0) (Bearbeitet) https:\/\/opengameart.org\/content\/cable-car\nSloppymess by Spring (cc0) https:\/\/opengameart.org\/content\/very-basic-32x32-topdown-snow-tileset\nSnowpike by Sping (cc0) https:\/\/opengameart.org\/content\/very-basic-32x32-topdown-snow-tileset\nHoussetbby Shepardskin (cc0) https:\/\/opengameart.org\/content\/house-sets\nSweets by MELLE (cc0) https:\/\/opengameart.org\/content\/sweets\nHoliday Pack 2016 by  Kenney Vleugels (Kenney.nl) (cc0)\nWooden Benches by AntumDeluge (cc0) https:\/\/opengameart.org\/node\/79117\nSnowman-2 by Azzarc https:\/\/opengameart.org\/content\/snowman-2\n\nChristmas lights Lighting Holiday (CC0) https:\/\/www.kisscc0.com\/clipart\/christmas-lights-lighting-holiday-christmas-lights-y2cca5\/\ntop down road tileset by AdebGameSoft (cc0) https:\/\/opengameart.org\/content\/top-down-road-tileset\n\n## Sounds\nTrabant601 http:\/\/www.soundsofchanges.eu\/sound\/trabant-601-tramp-engine-running\/\naccordion by z-Labor e.V. https:\/\/github.com\/z-Marcel\/z-Labor-workadventure-map\/blob\/main\/COPYRIGHT\n\nsee also tileset license in json file"
+        }],
  "renderorder":"right-down",
  "tiledversion":"1.7.2",
  "tileheight":32,

@@ -2450,6 +2450,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"nightoverlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"nightoverlay by jotilux"
+                }],
          "spacing":0,
          "tilecount":156,
          "tileheight":32,
@@ -2530,6 +2536,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"stage",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"stage by honky"
+                }],
          "spacing":0,
          "tilecount":63,
          "tileheight":32,
@@ -2543,6 +2555,12 @@
          "imagewidth":416,
          "margin":0,
          "name":"xmaslights",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"xmaslights by honky"
+                }],
          "spacing":0,
          "tilecount":78,
          "tileheight":32,

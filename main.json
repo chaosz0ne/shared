@@ -409,7 +409,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"world:\/\/Z-labor\/main.json"
+                         "value":"world:\/\/z-labor\/main.json"
                         }],
                  "type":"tilelayer",
                  "visible":true,

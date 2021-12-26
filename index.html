@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>WorkAdventure XCE - Map Starter Kit</title>
+    <link rel="shortcut icon" type="image/x-icon" href="assets/favicon.ico">
+    <link href="https://fonts.googleapis.com/css?family=Press+Start+2P" rel="stylesheet" />
+    <link href="https://unpkg.com/nes.css@2.3.0/css/nes.min.css" rel="stylesheet" />
+    <style>
+      body {
+        margin: 2rem 0.5rem;
+        max-width: 980px;
+        margin-left: auto;
+        margin-right: auto;
+      }
+
+      header, footer {
+        text-align: center;
+        margin-top: 2rem;
+        margin-bottom: 2rem;
+      }
+
+      .nes-container {
+        margin-top: 2rem;
+      }
+    </style>
+  </head>
+  <body>
+    <header style="display: flex; justify-content:center; align-items:center;">
+      <img style="margin-right: 1rem" src="assets/beer.png"/>
+      <h2 style="margin-top: 1rem">Workadventure XCE - Map Starter Kit</h2>
+    </header>
+    <main>
+      <div class="nes-container with-title is-centered">
+        <p class="title">Test this map</p>
+        <p>You can test this map at:</p>
+        <p><a id="mapLink" href=""></a>.</p>
+        <p><a id="button" href="" class="nes-btn is-primary">Test this map</a></p>
+      </div>
+      <div class="nes-container with-title">
+        <p class="title">Custom server</p>
+        <i class="nes-logo" style="float: left; width: 10%"></i>
+        <div class="nes-field" style="display: inline-block; width: 89%">
+          <input type="text" placeholder="play.workadventu.re" id="server_input" class="nes-input">
+        </div>
+      </div>
+      <div style="display: flex; margin: 2rem">
+        <a href="https://github.com/workadventure-xce/">
+          <i class="nes-octocat animate" style="margin-top: 4rem"></i>
+        </a>
+        <p class="nes-balloon from-left" style="margin: 1rem; margin-bottom: 5rem">
+        Find us on <a href="https://github.com/workadventure-xce/">Github</a>!
+        </p>
+      </div>
+    </main>
+    <footer>
+        <p>Inspired by the <a href="https://github.com/thecodingmachine/workadventure-map-starter-kit">WorkAdventure Map Starter Kit</a> by <a href="https://www.thecodingmachine.com">TheCodingMachine</a></p>
+    </footer>
+    <script>
+      // default workadventure server
+      let waServer = 'play.workadventu.re';
+      // instance ID for this session
+      const instanceId = Math.random().toString(36).substring(2, 15);
+
+      // get location of local server
+      const host = window.location.host;
+      let path = window.location.pathname;
+      // strip filename, if necessary
+      if (path.endsWith('index.html')) {
+        path = path.substr(path, path.length - 'index.html'.length);
+      }
+
+      // build instance url
+      let url = `https://${waServer}/_/${instanceId}/${host}${path}main.json`;
+
+      const mapLink = document.getElementById('mapLink');
+      const button = document.getElementById('button');
+
+      // set links to instance url
+      mapLink.href = url;
+      mapLink.innerText = url;
+      button.href = url;
+
+      const serverInput = document.getElementById('server_input');
+
+      // update links on input
+      const inputHandler = function(e) {
+        waServer = e.target.value;
+        url = `https://${waServer}/_/${instanceId}/${host}${path}main.json`;
+        mapLink.href = url;
+        mapLink.innerText = url;
+        button.href = url;
+      }
+
+      serverInput.addEventListener('input', inputHandler);
+    </script>
+  </body>
+</html>

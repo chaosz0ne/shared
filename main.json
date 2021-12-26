@@ -407,7 +407,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/z-labor\/main.json"
                         }],
@@ -425,7 +425,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chaoszone\/main.json"
                         }],
@@ -443,7 +443,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chaoszone\/main.json"
                         }],
@@ -461,7 +461,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chaoszone\/main.json"
                         }],
@@ -479,7 +479,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/c3d2\/main.json"
                         }],
@@ -497,7 +497,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chch\/main.json"
                         }],
@@ -515,7 +515,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/dezentrale\/main.json"
                         }],
@@ -533,7 +533,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/ebk\/main.json"
                         }],
@@ -551,7 +551,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chaoszone\/main.json"
                         }],
@@ -569,7 +569,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chaoszone\/main.json"
                         }],
@@ -587,7 +587,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/cccp\/main.json"
                         }],
@@ -605,7 +605,7 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"exitURL",
+                         "name":"exitUrl",
                          "type":"string",
                          "value":"world:\/\/chaoszone\/main.json"
                         }],
@@ -2519,7 +2519,7 @@
          "name":"RTSpack_tilesheet_2",
          "properties":[
                 {
-                 "name":"tilessetCopyright",
+                 "name":"tilesetCopyright",
                  "type":"string",
                  "value":"From \"Holiday Pack 2016\" by Kenney https:\/\/opengameart.org\/content\/holiday-pack-2016"
                 }],
